@@ -26,7 +26,9 @@ laptops, and other gear, that are handed out to employees.</p>
     cmd command: python manage.py migrate
   <li> Run the development server:</li>
     cmd commad: python manage.py runserver
+    <li> create super admin<li>
+    cmd command: python manage.py createsuperadmin
 <h3>Usage</h3>
 <p> To use the Corporate Asset Tracking App, open your web browser and navigate to 
-http://localhost:8000. You can log in using your company account or your employee 
+http://localhost:8000/companies/. You can log in using your company account or your employee 
 account. Once logged in, you can view and manage your company's devices and assign them to your employees.</p>
