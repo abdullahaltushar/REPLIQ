@@ -13,7 +13,7 @@ laptops, and other gear, that are handed out to employees.</p>
 
 <h3>Installation</h3>
  <li>Clone the repository:</li>
-    git bash command: git clone https://github.com/your-username/corporate-asset-tracking.git
+    git bash command: git clone https://github.com/abdullahaltushar/REPLIQ.git
  <li>Create a virtual environment:</li>
     cmd command: python -m venv env
  <li>Activate the virtual environment:</li>
