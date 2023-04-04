@@ -17,7 +17,7 @@ laptops, and other gear, that are handed out to employees.</p>
  <li>Create a virtual environment:</li>
     cmd command: python -m venv env
  <li>Activate the virtual environment:</li>
-    cmd command: ./env/bin/activate
+    cmd command: .\env\Scripts\activate
   <li> Install the dependencies:</li>
       cmd command: pip install -r requirements.txt
   <li> Go project directory </li>
